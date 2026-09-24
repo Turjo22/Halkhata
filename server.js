@@ -54,7 +54,7 @@ async function initializeUsers() {
     const hardcodedUsers = [
         { name: 'Sian', password: '2008032' },
         { name: 'Tanim', password: '2008047' },
-        { name: 'Istaik', password: '2008024' },
+        { name: 'Istiak', password: '2008024' },
         { name: 'Emon', password: '2008029' },
         { name: 'Turjo', password: '2008022' }
     ];
