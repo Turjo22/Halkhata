@@ -52,7 +52,7 @@ const Deposit = mongoose.model('Deposit', depositSchema);
 // Initialize Hardcoded Users
 async function initializeUsers() {
     const hardcodedUsers = [
-        { name: 'Sian', password: '2008032' },
+        { name: 'Sian', password: '2008031' },
         { name: 'Tanim', password: '2008047' },
         { name: 'Istiak', password: '2008024' },
         { name: 'Emon', password: '2008029' },
