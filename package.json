@@ -1,0 +1,15 @@
+{
+  "name": "halkhata",
+  "version": "1.0.0",
+  "description": "Monthly meal summary app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.2.1",
+    "cors": "^2.8.5",
+    "cookie-parser": "^1.4.6"
+  }
+}
